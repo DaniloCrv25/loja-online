@@ -6,6 +6,10 @@ function calculadora (intens) {
 
 
     }
+
+    //aplica desconto de fidelidade
+    //antes de retornar o valor final
+
     return total
 }
 
