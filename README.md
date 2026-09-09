@@ -1,4 +1,4 @@
-# Loja Online - titulo para a campanha de frete
+# Loja Online - titulo para a campanha atual
 # contato 
 Duvidas: contato@loja.com.br
-contato telefone 1100000000e
+contato telefone 1100000000
